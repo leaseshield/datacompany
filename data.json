@@ -4559,80 +4559,69 @@ required.",
       "LEASE",
       "QUICK SALE"
     ]
-  }
-]
- },
- {
- "title": "FASTSIGNS Franchise in Oxford",
- "location": "Oxford, Oxfordshire, UK",
- "status": "UPDATED",
- "description": "Thinking about which franchise is right for you? Make
-your statement with a FASTSIGNS business.",
- "financials": {
- "franchise_fee": "On request",
- "investment": "On request"
- },
- "tags": [
- "LEASE",
- "NEW FRANCHISE",
- "QUICK SALE",
- "UPDATED"
- ]
- },
- {
- "title": "Family-Run Home Appliance Suppliers – Established Since 1967",
- "location": "Mirfield, West Yorkshire, UK",
- "status": "UPDATED",
- "description": "Excellent opportunity to acquire a long-standing,
-family-run home appliance supply business, located in a prominent trading
-position in Mirfield, West Yorkshire. Over the years, this business has...",
- "financials": {
- "asking_price": "£64,995",
- "revenue": "£156,909",
- "cash_flow": "Undisclosed apartmentLEASE"
- },
- "tags": [
- "LEASE",
- "UPDATED"
- ]
- },
- {
- "title": "Alice in Windowland - Exterior Window Cleaning Franchise in
-Eastbourne",
- "location": "Eastbourne, East Sussex, UK",
- "status": "UPDATED",
- "description": "Flexible, home-based window cleaning franchise with low
-start-up costs, strong support, and the potential for high returns within a
-trusted, female-led brand.",
- "financials": {
- "franchise_fee": "On request",
- "investment": "On request"
- },
- "tags": [
- "LEASE",
- "NEW FRANCHISE",
- "RELOCATABLE",
- "Relocatable",
- "UPDATED"
- ]
- },
- {
- "title": "Licensed Restaurant With Substantial Private Accommodation In
-Fleetwood",
- "location": "Fleetwood, Lancashire, UK",
- "status": null,
- "description": "Licensed Restaurant with Substantial Private
-Accommodation. Fleetwood, Lancashire. Substantial Corner Property. Prominent
-Location. All Year-Round Trading Location. Established Business Since 1967...",
- "financials": {
- "asking_price": "£315,000",
- "revenue": "On request",
- "cash_flow": "On request"
- },
- "tags": [
- "Accommodation",
- "REAL PROPERTY"
- ]
+  },  <-- ADD A COMMA HERE, AND REMOVE THE `]}` AND SUBSEQUENT `,`
+  {
+    "title": "FASTSIGNS Franchise in Oxford",
+    "location": "Oxford, Oxfordshire, UK",
+    "status": "UPDATED",
+    "description": "Thinking about which franchise is right for you? Make your statement with a FASTSIGNS business.",
+    "financials": {
+      "franchise_fee": "On request",
+      "investment": "On request"
+    },
+    "tags": [
+      "LEASE",
+      "NEW FRANCHISE",
+      "QUICK SALE",
+      "UPDATED"
+    ]
+  },
+  {
+    "title": "Family-Run Home Appliance Suppliers – Established Since 1967",
+    "location": "Mirfield, West Yorkshire, UK",
+    "status": "UPDATED",
+    "description": "Excellent opportunity to acquire a long-standing, family-run home appliance supply business, located in a prominent trading position in Mirfield, West Yorkshire. Over the years, this business has...",
+    "financials": {
+      "asking_price": "£64,995",
+      "revenue": "£156,909",
+      "cash_flow": "Undisclosed apartmentLEASE"
+    },
+    "tags": [
+      "LEASE",
+      "UPDATED"
+    ]
+  },
+  {
+    "title": "Alice in Windowland - Exterior Window Cleaning Franchise in Eastbourne",
+    "location": "Eastbourne, East Sussex, UK",
+    "status": "UPDATED",
+    "description": "Flexible, home-based window cleaning franchise with low start-up costs, strong support, and the potential for high returns within a trusted, female-led brand.",
+    "financials": {
+      "franchise_fee": "On request",
+      "investment": "On request"
+    },
+    "tags": [
+      "LEASE",
+      "NEW FRANCHISE",
+      "RELOCATABLE",
+      "Relocatable",
+      "UPDATED"
+    ]
+  },
+  {
+    "title": "Licensed Restaurant With Substantial Private Accommodation In Fleetwood",
+    "location": "Fleetwood, Lancashire, UK",
+    "status": null,
+    "description": "Licensed Restaurant with Substantial Private Accommodation. Fleetwood, Lancashire. Substantial Corner Property. Prominent Location. All Year-Round Trading Location. Established Business Since 1967...",
+    "financials": {
+      "asking_price": "£315,000",
+      "revenue": "On request",
+      "cash_flow": "On request"
+    },
+    "tags": [
+      "Accommodation",
+      "REAL PROPERTY"
+    ]
  },
  {
  "title": "Target Sports World Franchise in Nottingham",
