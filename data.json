@@ -4523,25 +4523,44 @@ required.",
  "LEASE",
  "NEW FRANCHISE",
  "QUICK SALE"
- ]
- },
- {
- Lucrative / محل عصائر وسلطات فواكه وكريب للبيع في الشارقة" :"title "
-Juice, Fruit Salad And Crepe Shop In Sharjah",
- "location": "المحطة القاسمية, Sharjah, UAE",
- "status": null,
-المحل مجهز من كلشي جاهز للتسليم يوجد عليه تطبيق طلبات " :"description "
-The .وسيستم ومجهز من 7 شهور وعليه ارادات حلوة موقع ممتاز للبيع بسعر يناسب الجودة
-shop is fully equipped and ready for handover. It has a Talabat...",
- "financials": {
- "asking_price": "Under AED100K",
- "revenue": "Under AED100K",
- "cash_flow": "AED100K - AED250K"
- },
- "tags": [
- "LEASE",
- "QUICK SALE"
- ]
+[
+  {
+    "title": "A Unique And Very Well Known And Run Business",
+    "location": "West Yorkshire, UK",
+    "status": "Under Offer",
+    "description": "This is a truly outstanding business which is run from a large detached property in a beautiful rural setting in West Yorkshire. The business has been in the same hands for many years and is only now...",
+    "financials": {
+      "asking_price": "£1,450,000",
+      "revenue": "£752,000",
+      "cash_flow": "£255,000"
+    },
+    "tags": [
+      "Relocatable",
+      "Accommodation Included"
+    ],
+    "broker": {
+      "name": "Ernest Wilson & Co Ltd",
+      "phone": "+44 113 238 2900",
+      "email": "info@ernest-wilson.co.uk"
+    },
+    "capital": "£25,500"
+  },
+  {
+    "title": "Lucrative / محل عصائر وسلطات فواكه وكريب للبيع في الشارقة",
+    "location": "المحطة القاسمية, Sharjah, UAE",
+    "status": null,
+    "description": "المحل مجهز من كلشي جاهز للتسليم يوجد عليه تطبيق طلبات وسيستم ومجهز من 7 شهور وعليه ارادات حلوة موقع ممتاز للبيع بسعر يناسب الجودة. The shop is fully equipped and ready for handover. It has a Talabat...",
+    "financials": {
+      "asking_price": "Under AED100K",
+      "revenue": "Under AED100K",
+      "cash_flow": "AED100K - AED250K"
+    },
+    "tags": [
+      "LEASE",
+      "QUICK SALE"
+    ]
+  }
+]
  },
  {
  "title": "FASTSIGNS Franchise in Oxford",
